@@ -25,17 +25,6 @@
   </a>
 </div>
 
-###
-
-<div align="left">
-</div>
-
-###
-
-<img align="right" height="150" src="https://pbs.twimg.com/profile_images/1822535011209277442/Vonz10N6_400x400.jpg"  />
-
-###
-
 <p align="left">Who Is Sougata Ghosh?<br><br>Sougata Ghosh, born on April 21, 2001, is an internet personality from West Bengal, India. His journey in the digital world began with a deep curiosity for online creativity and communication, which he developed from an early age. Over the years, Sougata explored various digital platforms, experimenting with content creation, branding, and audience engagement to establish his distinct online identity. His passion for innovation, visual storytelling, and digital trends has become the foundation of his recognition as a versatile internet figure admired both in India and abroad.
 
 In the early phase of his online journey, Sougata focused on building a global presence through consistent content creation and smart use of digital platforms. He established himself across major social media and streaming platforms such as YouTube, Instagram, Spotify, Apple Music, Amazon Music, JioSaavn, and Hungama. His presence also extended internationally through platforms like Deezer, Tidal, Jaxsta, Napster, and Pandora, reflecting his growing digital footprint and global appeal. These efforts helped him connect with diverse audiences and strengthen his reputation as a dynamic digital creator.
@@ -53,10 +42,3 @@ Family and values play a strong role in Sougata’s life. Guided by the teaching
 As an internet personality, Sougata maintains an active presence on platforms like Instagram, Facebook, and TikTok, engaging directly with his followers. He shares glimpses of his creative process, insights on digital trends, that resonates with his growing community. His ability to adapt to changing trends while maintaining authenticity has helped him stand out in the competitive online landscape.
 
 Looking ahead, Sougata remains focused on expanding his digital influence while continuously refining his craft. His evolution as an internet personality and highlights his passion for learning, experimenting, and inspiring others. By blending creativity with technology, he continues to build a legacy that bridges art, innovation, and community leaving a positive mark on the ever-evolving world of the internet.</p>
-
-###
-<div align="center">
-  <img src="https://profile-counter.glitch.me/isougataghosh/count.svg?"  />
-</div>
-
-###
